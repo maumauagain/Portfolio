@@ -1,6 +1,7 @@
 import React from 'react';
 import "./styles.css";
 import Profile from "../../assets/images/profile.jpg"
+import Curriculo from "../../assets/images/Curriculo.pdf";
 
 function About() {
     return (
@@ -28,7 +29,7 @@ function About() {
                     <p>Técnico em Informática para Internet</p>
                     <p>Cursando Engenharia de Software</p>
 
-                    <button>Baixar Curriculo</button>
+                    <a href={Curriculo} download={Curriculo}><button>Baixar Curriculo</button></a>
                 </div>
 
             </section>
