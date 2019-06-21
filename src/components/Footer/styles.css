@@ -1,11 +1,26 @@
 footer#Footer{
     height: 100px;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+footer#Footer .icons{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 40px;
 }
 
 footer#Footer img{
     height: 70px;
     margin-right: 50px;
     margin-top: 15px;
+}
+
+#Footer .infos{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
 }
