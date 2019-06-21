@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a1c7f0c7.chunk.css",
+    "main.js": "/Portfolio/static/js/main.66a83bc6.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.66a83bc6.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.132fbc8c.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.132fbc8c.js.map",
+    "static/js/2.16989715.chunk.js": "/Portfolio/static/js/2.16989715.chunk.js",
+    "static/js/2.16989715.chunk.js.map": "/Portfolio/static/js/2.16989715.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.15406538f96556100b671144fba9ccce.js": "/Portfolio/precache-manifest.15406538f96556100b671144fba9ccce.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.a1c7f0c7.chunk.css.map": "/Portfolio/static/css/main.a1c7f0c7.chunk.css.map",
+    "static/media/styles.css": "/Portfolio/static/media/bg-contact.9c50939d.jpg",
+    "static/media/icon-github.svg": "/Portfolio/static/media/icon-github.76d344f0.svg",
+    "static/media/icon-linkedin.png": "/Portfolio/static/media/icon-linkedin.df721c21.png",
+    "static/media/portfolio-1.PNG": "/Portfolio/static/media/portfolio-1.9badd752.PNG",
+    "static/media/portfolio-2.PNG": "/Portfolio/static/media/portfolio-2.4ca1a0a1.PNG",
+    "static/media/post-1.jpg": "/Portfolio/static/media/post-1.13389e18.jpg",
+    "static/media/post-2.jpg": "/Portfolio/static/media/post-2.13d61ffc.jpg",
+    "static/media/post-3.jpg": "/Portfolio/static/media/post-3.8a89ab55.jpg",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.4fdac714.jpg"
+  }
+}
