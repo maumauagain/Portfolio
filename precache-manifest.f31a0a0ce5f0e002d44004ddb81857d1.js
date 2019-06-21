@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f861919ff60fa1a5bfa8c660d8bffb22",
+    "revision": "2ead15d92c0c8a4eb772ebf7ad5a6282",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "51837aa9bf46f97a4854",
-    "url": "/Portfolio/static/css/main.a1c7f0c7.chunk.css"
+    "revision": "62dc9d64d21a82d611b7",
+    "url": "/Portfolio/static/css/main.87a34288.chunk.css"
   },
   {
-    "revision": "917baa027c1993b63d96",
-    "url": "/Portfolio/static/js/2.16989715.chunk.js"
+    "revision": "a5574df8b61771238552",
+    "url": "/Portfolio/static/js/2.26b812f9.chunk.js"
   },
   {
-    "revision": "51837aa9bf46f97a4854",
-    "url": "/Portfolio/static/js/main.b18d9e5b.chunk.js"
+    "revision": "62dc9d64d21a82d611b7",
+    "url": "/Portfolio/static/js/main.bc6dd54a.chunk.js"
   },
   {
     "revision": "6b64d540f1308ee928ad",
     "url": "/Portfolio/static/js/runtime~main.132fbc8c.js"
+  },
+  {
+    "revision": "7bd1c4d4dd8a741825c4620b0ca22948",
+    "url": "/Portfolio/static/media/Curriculo.7bd1c4d4.pdf"
   },
   {
     "revision": "9c50939dfc551e71e4cd22b6b31cb0a5",
