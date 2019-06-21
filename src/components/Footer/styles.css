@@ -1,0 +1,11 @@
+footer#Footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+footer#Footer img{
+    height: 70px;
+    margin-right: 50px;
+    margin-top: 15px;
+}

@@ -1,0 +1,43 @@
+section#bio{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+div.title h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+div.container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+div.row1{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+div.row1 {
+    font-size: 16px;
+}
+
+div.container p{
+    width: 50%;
+}
+div.row2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+
+div.row2 {
+    font-size: 16px;
+}

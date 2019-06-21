@@ -1,0 +1,63 @@
+section#Contact{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    background-color: black;
+}
+
+section#Contact h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+div.formulario{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+
+div.formulario input{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 500px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid white;
+    color: white;
+}
+
+div.formulario textarea{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 500px;
+}
+
+div.formulario .btn{
+    width: auto;
+    margin-bottom: 50px;
+    border: 1px solid white;
+    padding: 10px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+div.formulario .btn:hover{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}

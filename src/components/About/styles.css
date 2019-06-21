@@ -1,0 +1,64 @@
+
+section#about{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+div.col1 {
+    margin-top: 5%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section#about img {
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+div.col1 p {
+    margin-top: 25px;
+    width: 400px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+div.col2 {
+    margin-top: 7%;
+    margin-right: 10%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.col2 h2{
+    margin-bottom: 12px;
+}
+
+div.col2 p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+div.col2 button{
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+div.col2 button:hover {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+
+    

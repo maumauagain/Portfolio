@@ -1,0 +1,49 @@
+section#Skills{
+    background-color: #1C2541;
+    color: white;
+    margin-top: 20px;
+}
+div.title h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+div.center {
+    display: flex;
+    justify-content: center;
+}
+
+div.SkillList{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 450px;
+}
+
+div.SkillList ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  div.SkillList li{
+      list-style: none;
+      margin-left: 15px;
+      text-transform: uppercase;
+      border: 1px solid white;
+      padding: 10px;
+      margin-bottom: 15px;
+  }
+
+  div.SkillList li:hover{
+    list-style: none;
+    margin-left: 15px;
+    text-transform: uppercase;
+    border: 1px solid 1C2541;
+    background-color: white;
+    color: #1C2541;
+    padding: 10px;
+    margin-bottom: 15px;
+}

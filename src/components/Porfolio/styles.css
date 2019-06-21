@@ -1,0 +1,57 @@
+section#Portfolio{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    background-image: url("../../assets/images/bg-contact.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+section#Portfolio h2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+div.ListProjects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+div.ListProjects div.post {
+    width: 400px;
+    border: 1px solid #e7e7e7;
+    background-color: black;
+}
+
+div.ListProjects div.post img {
+    width: 100%;
+    height: 300px; 
+    display: flex;
+    justify-content: center;
+}
+
+div.ListProjects div.post h4 {
+    text-align: center;
+    width: 400px;
+    margin: 10px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+div.ListProjects div.post p{
+    text-align: center;
+    width: 400px;
+    color: white;
+    margin-bottom: 20px;
+    padding: 13px;
+}
