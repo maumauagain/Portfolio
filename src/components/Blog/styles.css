@@ -43,3 +43,19 @@ div.post p{
     text-align: center;
     width: 300px
 }
+
+@media screen and (max-width: 900px) {
+    div.post {
+        width: 300px;
+        border: 1px solid #e7e7e7;
+        margin-bottom: 40px;
+    }
+
+    div.post h4{
+        font-size: 20px;
+    }
+
+    div.post p{
+        font-size: 16px;
+    }
+}

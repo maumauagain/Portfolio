@@ -55,3 +55,19 @@ div.ListProjects div.post p{
     margin-bottom: 20px;
     padding: 13px;
 }
+
+@media screen and (max-width: 900px) {
+    div.ListProjects div.post {
+        width: 100%;
+        border: 1px solid #e7e7e7;
+        background-color: black;
+    }
+
+    div.ListProjects div.post h4 {
+        width: 100%;
+    }
+
+    div.ListProjects div.post p{
+        width: 100%;
+    }
+}

@@ -41,3 +41,19 @@ div.row2{
 div.row2 {
     font-size: 16px;
 }
+
+@media screen and (max-width: 900px) {
+    div.container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    div.row1{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    div.row2{
+        width: 100%;
+    }
+}

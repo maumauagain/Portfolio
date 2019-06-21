@@ -61,3 +61,28 @@ div.formulario .btn:hover{
     border: 1px solid white;
     color: white;
 }
+
+@media screen and (max-width: 900px) {
+    div.formulario input{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        padding: 5px;
+        width: 100%;
+        border: 0;
+        outline: 0;
+        background: transparent;
+        border-bottom: 2px solid white;
+        color: white;
+    }
+    
+    div.formulario textarea{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        margin-top: 10px;
+        width: 100%;
+    }
+    
+}
