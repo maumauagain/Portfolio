@@ -12,6 +12,7 @@ section#Blog h2{
     justify-content: center;
     flex-wrap: wrap;
     font-size: 30px;
+    padding-top: 50px;
 }
 
 div.ListPosts {
