@@ -8,7 +8,7 @@ function About() {
             <section id="about">
                 <div className="col1">
                     <img src={Profile} alt="Profile Pic" />
-                    <p>Desenvolvedor .NET na empresa ForLogic e graduando de Engenharia de Software pela UTFPR</p>
+                    <p>Desenvolvedor .NET desde 2018 e graduando de Engenharia de Software pela UTFPR</p>
 
                 </div>
 
@@ -28,7 +28,7 @@ function About() {
                     <p>Técnico em Informática para Internet</p>
                     <p>Cursando Engenharia de Software</p>
 
-                    <a href=""><button>Baixar Curriculo</button></a>
+                    <button>Baixar Curriculo</button>
                 </div>
 
             </section>
