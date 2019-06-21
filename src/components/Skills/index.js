@@ -8,7 +8,7 @@ class Skills extends Component {
             <>
                 <section id="Skills">
                     <div className="title">
-                        <h1>Habilidades</h1>
+                        <h2>Habilidades</h2>
                     </div>
 
                     <div className="center">
